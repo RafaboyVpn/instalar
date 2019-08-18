@@ -1,2 +1,2 @@
-# instalar
-Rafaboy
+# apt-get update -y
+
